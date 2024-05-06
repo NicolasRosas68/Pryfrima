@@ -70,7 +70,7 @@
             // 
             chkNegro.AutoSize = true;
             chkNegro.Checked = true;
-            chkNegro.Location = new Point(7, 97);
+            chkNegro.Location = new Point(7, 62);
             chkNegro.Margin = new Padding(3, 4, 3, 4);
             chkNegro.Name = "chkNegro";
             chkNegro.Size = new Size(79, 24);
@@ -82,7 +82,7 @@
             // chkAzul
             // 
             chkAzul.AutoSize = true;
-            chkAzul.Location = new Point(7, 64);
+            chkAzul.Location = new Point(7, 98);
             chkAzul.Margin = new Padding(3, 4, 3, 4);
             chkAzul.Name = "chkAzul";
             chkAzul.Size = new Size(66, 24);
